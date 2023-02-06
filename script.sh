@@ -10,5 +10,5 @@ screen -m -d python3 app.py
 
 git clone https://github.com/miriyaladevi/USA-Housing.git
 cd USA-Housing
-pip3 insall -r reuirements
+pip3 insall -r requirements
 screen -m -d python3 app.py
