@@ -7,7 +7,7 @@ pip3 install -r requirements.txt
 screen -m -d python3 app.py
 
 git clone https://github.com/miriyaladevi/Fuel-Consumption-Rating12.git
-cd Fuel-Consumption-Rating
+cd Fuel-Consumption-Rating12
 pip3 install -r requirements.txt
 screen -m -d python3 app.py
 
