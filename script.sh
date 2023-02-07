@@ -13,5 +13,5 @@ screen -m -d python3 app.py
 
 git clone https://github.com/miriyaladevi/USA-Housing.git
 cd USA-Housing
-pip3 install -r requirements
+pip3 install -r requirements.txt
 python3 app.py
